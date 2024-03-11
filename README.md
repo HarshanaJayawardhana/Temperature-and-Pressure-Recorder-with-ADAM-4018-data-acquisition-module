@@ -10,7 +10,7 @@ I was assigned to install a temperature and pressure recording system. This reco
 -	Microsoft excel files were saved every day at 6.00 am
 <br>
 <br>
-<img src="Document/Images/Figure 01.jpg" width="800" >
+<img src="Document/Images/Figure 01.jpg" width="350" >
 <br>
 
 #### Figure 01: ADAM – 4018+ data acquisition module
